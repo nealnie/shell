@@ -1,5 +1,5 @@
 #!/bin/bash
-net=192.168.112.
+net=192.168.1.
 romdir=/root/bin
 rom=openwrt-ar71xx-generic-APS256-squashfs-sysupgrade.bin
 log=/root/upgrade.log
